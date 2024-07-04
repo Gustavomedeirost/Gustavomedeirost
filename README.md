@@ -4,7 +4,7 @@
 
 💻 Eu sou estudante de Ciência da Computação focado em [Desenvolvimento de Software | Desenvolvimento de software Front-end | Linguagem C]
 
-🎓 Eu estudo [[Engenharia de Software] (https://cursos.alura.com.br/formacao-engenharia-software)] | [[Linguagem C] (https://cursos.alura.com.br/formacao-linguagem-c)] | [[Front-end] (https://cursos.alura.com.br/formacao-html-css)] | [[[Alura](https://www.alura.com.br/)] | Universidade do Vale do Rio dos Sinos - UNISINOS | Ciência da Computação]
+🎓 Eu estudo [[Engenharia de Software](https://cursos.alura.com.br/formacao-engenharia-software) | [Linguagem C] (https://cursos.alura.com.br/formacao-linguagem-c) | [Front-end] (https://cursos.alura.com.br/formacao-html-css) | [[Alura](https://www.alura.com.br/) | Universidade do Vale do Rio dos Sinos - UNISINOS | Ciência da Computação]
 
 🔎 Também sou curioso sobre [Data Science|Machine Learning]
 
