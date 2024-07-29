@@ -2,11 +2,11 @@
 
 ### Sobre mim
 
-💻 Eu sou estudante de Ciência da Computação focado em [Desenvolvimento de Software | Desenvolvimento de software Front-end | Linguagem C]
+💻 Eu sou estudante de Ciência da Computação focado em [Desenvolvimento de Software]
 
-🔎 Também sou curioso sobre [Data Science|Machine Learning]
+🔎 Também sou curioso sobre [Data Science | Machine Learning]
 
-✒️ Eu gosto de no meu tempo livre [Correr|Treinar|Série];
+✒️ Eu gosto de no meu tempo livre [Correr| Treinar | Série];
 
 ### Eu já trabalhei com... 🔧
 
