@@ -1,5 +1,5 @@
 # About Me:
-Computer science student<br><br>🔭 I’m currently working on @GoDigitalSelling<br><br>🌱 I’m currently learning Python and Data Analysis<br><br>👨‍💻 All of my projects are available at https://github.com/Gustavomedeirost<br><br>📝 I regularly write articles on https://dev.to/gusmedeirost<br><br>📫 How to reach me gusmedeirost@gmail.com<br><br>📄 Know about my experiences https://gustavomedeiros.dev.br/
+Computer science student<br><br>🔭 I’m currently working on @GoDigitalSelling<br><br>🌱 I’m currently learning Data Science and Data Analysis<br><br>👨‍💻 All of my projects are available at https://github.com/Gustavomedeirost<br><br>📝 How to reach me gusmedeirost@gmail.com<br><br>📄
 
 
 ## 🌐 Socials:
